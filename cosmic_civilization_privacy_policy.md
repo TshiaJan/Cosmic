@@ -2,7 +2,7 @@
 
 **Effective Date:** September 18, 2026  
 **Last Updated:** September 18, 2026  
-**Developer Contact:** Tshiamo Jantjie (tshiajan@gmail.com)
+**Developer Contact:** Tshiamo Jantjie (janaire.dev@gmail.com)
 
 ---
 
